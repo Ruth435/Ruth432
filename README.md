@@ -10,15 +10,34 @@ This repository is a central hub for my university projects and technical milest
 
 ## 🛠️ Technical Toolkit
 
-| Category | Technologies & Tools |
-| **Languages** | Java, Python, R |
-| **Data & Databases** | SQL, Microsoft Excel (Statistical Modeling), Google Sheets (Statistical Modeling) |
-| **Tools & Version Control** | Git, GitHub, VS code |
+| **Languages** | Java, Python, R | <br>
+| **Data & Databases** | SQL, Microsoft Excel (Statistical Modeling), Google Sheets (Statistical Modeling) |<br>
+| **Tools & Version Control** | Git, GitHub, VS code |<br>
 
 ---
 
-## 🚀 Featured Projects
---TO ADD--
+## 🚀 Featured Projects <br>
+## 🔬 Featured Project: Multithreaded Biofilm Simulation Framework <br>
+
+A comprehensive, three-tiered simulation suite built to model early-stage biophysical biofilm formation, tracking how rod-shaped bacteria move, reproduce, consume nutrients, and secrete extracellular polymeric substances (EPS). <br>
+
+🔗 **[View Repository](https://github.com/ruth432/biofilm-simulation)** *(Migrated from institutional archive)* <br>
+
+### 🏗️ System Architecture <br>
+The framework operates across three distinct pipeline modules: <br>
+* **Simulation Engine (Java):** Executes biophysical logic, particle tracking, and resource grids utilizing a multithreaded `forkJoin` architecture. <br>
+* **Visualization Engine (Java GUI):** Consumes simulation outputs to render high-fidelity playback movies of cellular colonies with custom frame-by-frame controls, pause handling, and dynamic cell scaling. <br>
+* **Analytics Engine (Python):** Consumes simulation outputs to compile statistical datasets and render analytical plots (roughness evolution, cluster sizes, and phase diagrams) via NumPy and Matplotlib. <br>
+
+### 👩‍💻 My Contributions & Technical Focus <br>
+As the **Project Leader** for this cross-functional team, I managed the end-to-end integration and took core ownership of the **Visualization Module**: <br>
+* **Dynamic Rendering & UI:** Developed and optimized custom Java Swing `PaintComponent` pipelines to handle fluid graphical element loading and particle positioning. <br>
+* **File I/O Pipelines:** Re-engineered the backend simulation parsing logic (`readSimulationFile`) to map complex tabular state data directly with interactive Java UI components. <br>
+* **Algorithmic Asset Styling:** Built custom cluster-brightness generation algorithms to dynamically calculate and shift visual color gradients based on real-time cell density and tracking array sizes. <br>
+* **Quality Assurance:** Facilitated cross-module validation, authored testing frameworks, and expanded the final project delegation documentation. <br>
+
+### 🛠️ Tech Stack <br>
+`Java` • `Java Swing / GUI` • `Multi-Threading (Fork/Join)` • `Python` <br>
 
 ---
 
