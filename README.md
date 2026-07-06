@@ -21,7 +21,7 @@ This repository is a central hub for my university projects and technical milest
 
 A comprehensive, three-tiered simulation suite built to model early-stage biophysical biofilm formation, tracking how rod-shaped bacteria move, reproduce, consume nutrients, and secrete extracellular polymeric substances (EPS). <br>
 
-🔗 **[View Repository](https://github.com/ruth432/biofilm-simulation)** *(Migrated from institutional archive)* <br>
+🔗 **[View Repository](https://github.com/Ruth435/biofilm-simulation)** *(Migrated from institutional archive)* <br>
 
 ### 🏗️ System Architecture <br>
 The framework operates across three distinct pipeline modules: <br>
