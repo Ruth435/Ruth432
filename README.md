@@ -17,8 +17,7 @@ This repository is a central hub for my university projects and technical milest
 ---
 
 ## 🚀 Featured Projects <br>
-## 🔬 Featured Project: Multithreaded Biofilm Simulation Framework <br>
-
+## 🔬 Multithreaded Biofilm Simulation Framework <br>
 A comprehensive, three-tiered simulation suite built to model early-stage biophysical biofilm formation, tracking how rod-shaped bacteria move, reproduce, consume nutrients, and secrete extracellular polymeric substances (EPS). <br>
 
 🔗 **[View Repository](https://github.com/Ruth435/biofilm-simulation)** *(Migrated from institutional archive)* <br>
@@ -38,6 +37,21 @@ As the **Project Leader** for this cross-functional team, I managed the end-to-e
 
 ### 🛠️ Tech Stack <br>
 `Java` • `Java Swing / GUI` • `Multi-Threading (Fork/Join)` • `Python` <br>
+
+## 🧟‍♂️ OS Process Scheduling Simulator: Sarah the Zombie Barman <br>
+Refactored and optimized an operating system CPU scheduler simulation to benchmark resource allocation paradigms under a bar-tending workload constraint. <br>
+
+🔗 **[View Repository](https://github.com/Ruth435/OS-Scheduler-simulation)** <br>
+
+### 👩‍💻 My Contributions & Technical Focus <br>
+* **Core Concepts:** Process Scheduling (FCFS, SJF, RR), Resource Allocation, Concurrency Metrics. <br>
+* **The Analytical & Statistical Edge:**  <br>
+  * Analyzed empirical data to evaluate the trade-offs of each algorithm regarding **Average Wait Time**, **Turnaround Time**, and **Response Time**.  <br>
+  * Evaluated operational predictability and fairness distributions, mapping out edge cases like algorithm starvation and behavior changes based on Round Robin time quantum variances.  <br>
+  * Created a comprehensive report document detailing performance metrics and overall recomendations based on algorithm performance data. <br>
+
+### 🛠️ Tech Stack <br> 
+`Java` • `R` • `Shell` • `Git` • `Performance Profiling Tools` <br>
 
 ---
 
