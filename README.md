@@ -52,6 +52,18 @@ Refactored and optimized an operating system CPU scheduler simulation to benchma
 
 ### 🛠️ Tech Stack <br> 
 `Java` • `R` • `Shell` • `Git` • `Performance Profiling Tools` <br>
+ 
+## ⏳ Parallelized Abelian Sandpile Simulation <br>
+*Architected a high-performance, shared-memory parallel simulation engine in Java to accelerate cellular automata state convergence using the Fork/Join framework.* <br>
+
+🔗 **[View Repository](https://github.com/Ruth435/parallel-sandpile-simulation)** <br>
+
+### 👩‍💻 My Contributions & Technical Focus <br>
+* Engineered an **adaptable thread-cutoff threshold** based on available processor topology to optimize runtime scaling across distinct hardware, and implemented a double-buffered array-reference swapping mechanic to bypass item-by-item matrix rewrite overhead.
+* Proven via empirical instrumentation that parallel compute benefits scale non-linearly with data density—demonstrating that synchronization overhead throttles small grids (e.g., $81 \times 81$), while massive matrix areas yield maximum parallel speedup.
+
+### 🛠️ Tech Stack <br>
+`Java` • `Java Concurrency Framework (ForkJoinPool)` • `Bash / Makefiles` • `Data Visualization` <br>
 
 ---
 
