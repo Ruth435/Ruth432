@@ -69,4 +69,3 @@ Refactored and optimized an operating system CPU scheduler simulation to benchma
 
 ## 📫 Let's Connect!
 *   **LinkedIn:** www.linkedin.com/in/ruth-rudolph
-*   **Email:** Ruth2Rudolph@Gmail.com
